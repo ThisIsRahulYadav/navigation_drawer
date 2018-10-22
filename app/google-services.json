@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "337738083513",
+    "firebase_url": "https://apply-jobs-ae907.firebaseio.com",
+    "project_id": "apply-jobs-ae907",
+    "storage_bucket": "apply-jobs-ae907.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337738083513:android:bcde8b4a82754845",
+        "android_client_info": {
+          "package_name": "dumyprojects.com.apply_jobs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "337738083513-ccvgdt53au9d04b44a93ck4easbf3v1e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA55WRm1YadXiBnSVQuNTuDGnYQ1Q3pEEQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337738083513:android:32890b20090f2958",
+        "android_client_info": {
+          "package_name": "dumyprojects.com.playground"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "337738083513-ccvgdt53au9d04b44a93ck4easbf3v1e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA55WRm1YadXiBnSVQuNTuDGnYQ1Q3pEEQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
