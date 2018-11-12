@@ -17,6 +17,5 @@ private static final String REG_TOCKEN="REG_TOCKEN";
         String recent_Tocken= FirebaseInstanceId.getInstance().getToken();
 
         Log.e(REG_TOCKEN,recent_Tocken);
-
     }
 }
